@@ -58,6 +58,8 @@ h4{
 }
 .webdevimg{
   border-radius: 50%;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
 }
 #btn{
  font-family: 'Finger Paint', cursive;
